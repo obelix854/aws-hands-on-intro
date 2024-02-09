@@ -23,7 +23,7 @@ Complete the following modules:
 - [Workshop Progress](#workshop-progress)
 - [Target Audience](#target-audience)
 - [Workshop Overview](#workshop-overview)
-  - [Modules](#modules)
+  - [Modules Overview](#modules-overview)
   - [Getting Started](#getting-started)
 - [Installation & Setup](#installation--setup)
 - [Contributions](#contributions)

@@ -26,7 +26,7 @@ Complete the following modules:
   - [Modules Overview](#modules-overview)
   - [Getting Started](#getting-started)
 - [Installation & Setup](#installation-and-setup-instructions)
-- [Contributions](#contributions)
+- [Feedback & Support](#feedback-&-Support)
 - [Feedback & Support](#feedback--support)
 - [Conclusion](#conclusion)
 
